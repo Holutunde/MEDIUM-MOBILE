@@ -9,7 +9,6 @@ const customFonts = {
   UbuntuItalic: require('./assets/fonts/Ubuntu-Italic.ttf'),
   UbuntuLightItalic: require('./assets/fonts/Ubuntu-LightItalic.ttf'),
   UbuntuMediumItalic: require('./assets/fonts/Ubuntu-MediumItalic.ttf'),
-  UbuntuBoldItalic: require('./assets/fonts/Ubuntu-BoldItalic.ttf'),
 }
 
 const App = () => {
